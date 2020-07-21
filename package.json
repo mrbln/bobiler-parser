@@ -1,0 +1,25 @@
+{
+  "name": "bobiler-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "start": "node parser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbln/bobiler-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbln/bobiler-parser/issues"
+  },
+  "homepage": "https://github.com/mrbln/bobiler-parser#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dom-parser": "^0.1.6",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
